@@ -1,0 +1,13 @@
+Oracle Client Installation:
+Tools-> 1.Net Famework version 2
+        2. Oracle Client_11g
+        3. Toad_for_Oracle_9.7.2.5 
+Installation->
+        1. Install Oracle Client_11g in administrator mode
+        2. Install Net Famework version 2
+        3. Install Toad_for_Oracle_9.7.2.5 
+
+Instade of using Toad we can use Oracl Developer Tool
+        After Installation you can configure connection
+        
+![remoteconnection](https://user-images.githubusercontent.com/18598774/48756930-4713ea00-ecc5-11e8-86b6-549b7bf8672b.PNG)
